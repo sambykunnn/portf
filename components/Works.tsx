@@ -43,7 +43,7 @@ const works: WorkItem[] = [
     id: 5, 
     title: 'Stream UI/UX', 
     category: 'Overlays', 
-    image: 'https://images.unsplash.com/photo-1614850523296-d8c1af93d400?q=80&w=2070&auto=format&fit=crop', 
+    image: 'https://mir-s3-cdn-cf.behance.net/projects/404/11bec2202374603.Y3JvcCw4MDgsNjMyLDAsMA.png', 
     width: 'w-72 sm:w-80' 
   },
   { 
