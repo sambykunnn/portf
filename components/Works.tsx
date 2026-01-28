@@ -50,7 +50,7 @@ const works: WorkItem[] = [
     id: 6, 
     title: 'Cinematic Highlights', 
     category: 'Videography', 
-    image: 'https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?q=80&w=2070&auto=format&fit=crop', 
+    image: 'https://img.youtube.com/vi/fjY5ug3LAWk/maxresdefault.jpg', 
     width: 'w-80 sm:w-96' 
   },
 ];
